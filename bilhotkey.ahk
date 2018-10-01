@@ -19,6 +19,7 @@
 
 bilHotkey(key,x,y)
 {
+  KeyWait %key%
   mousegetpos, start_x, start_y
   mouseclick, left, %x%, %y%, 1, 0
   mousemove, %start_x%, %start_y%, 0
