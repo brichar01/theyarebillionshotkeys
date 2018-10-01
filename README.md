@@ -1,10 +1,10 @@
 ## They Are Billions Custom Hotkeys
 Quick macros to make a "Grid layout" hotkey scheme for They Are Billions while we wait for them to make proper hotkeys.
 Here are the default hotkeys
-[default-CC](/default-CC.png)
-[unit-hotkey](/unit-hotkey.png)
+![default-CC](/default-CC.png)
+![unit-hotkey](/unit-hotkey.png)
 And is the new grid layout:
-[default-blank](/default-blank.png)
+![default-blank](/default-blank.png)
 
 The hotkey locations are based on 1080p full screen window size.
 
