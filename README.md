@@ -16,7 +16,7 @@ I am not affiliated with They Are Billions.
 
 ### Usage:
 Download autohotkey from https://autohotkey.com/
-Download this script and run it.
+Download this script and run it before loading they are billions
 
 ### To do:
 - Camera locations (simulate clicking on the minimap and allow user to choose)
