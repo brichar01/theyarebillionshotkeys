@@ -7,7 +7,7 @@ Here are the default hotkeys
 
 And is the new grid layout:
 
-![default-blank](/default-blank.png)
+![modified-blank](/modified-blank.png)
 
 The hotkey locations are based on 1080p full screen window size.
 
